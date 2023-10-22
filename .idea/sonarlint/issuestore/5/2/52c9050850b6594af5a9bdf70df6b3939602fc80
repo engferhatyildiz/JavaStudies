@@ -1,0 +1,6 @@
+
+“
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Î’’Öøÿÿÿÿ8Ñ·¥½Ç0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õä—Éÿÿÿÿÿ
+Y
+java:S1155)">Use isEmpty() to check whether the collection is empty or not.(”ì—œûÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Œ
+java:S13190"qThe type of "playListLectures" should be an interface such as "List" rather than the implementation "LinkedList".(«ãÔÐüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õä—Éÿÿÿÿÿ
+T
+java:S11552">Use isEmpty() to check whether the collection is empty or not.(„¤Û¡
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

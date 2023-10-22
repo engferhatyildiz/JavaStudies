@@ -1,0 +1,44 @@
+
+E
+java:S3740'"/Provide the parametrized type for this generic.(ÚÈç›
+o
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì˝≠Å
+o
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëÓ∑ô
+o
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(√èÛ 
+`
+java:S1192x"JDefine a constant instead of duplicating this literal "2: MYHASH" 3 times.(˛é“ó
+b
+java:S1192x"LDefine a constant instead of duplicating this literal "1: PAFHASH
+" 4 times.(˛é“ó
+ä
+java:S1192x"tDefine a constant instead of duplicating this literal "PLEASE ENTER(1 or 2) FOR THE SELECT OF HASH METHOD
+" 4 times.(˛é“ó
+n	java:S135X"YReduce the total number of break and continue statements in this loop to use at most one.(€äŸö
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¿…Ω
+g
+java:S2095^"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(•≠ëÀˇˇˇˇˇ
+b
+java:S2095,"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(∞˝¯ß
+g
+java:S2095T"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ì∫”Ÿˇˇˇˇˇ
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(˛·ªù¯ˇˇˇˇ
+h	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˝ÓêØ¯ˇˇˇˇ
+Z
+java:S2147H"DCombine this catch with the one at line 70, which has the same body.(Ô≠£ƒ
+M
+java:S1854Q"7Remove this useless assignment to local variable "end".(ÈÔ´ï
+[
+java:S2147k"ECombine this catch with the one at line 105, which has the same body.(Ô≠£ƒ
+H
+java:S6126x"2Replace this String concatenation with Text block.(˛é“ó
+H
+java:S6126{"2Replace this String concatenation with Text block.(˛é“ó
+I
+java:S6126î"2Replace this String concatenation with Text block.(öõ™—
+I
+java:S6126ó"2Replace this String concatenation with Text block.(˛é“ó
+>
+java:S1125¶"'Remove the unnecessary boolean literal.(†Éœà

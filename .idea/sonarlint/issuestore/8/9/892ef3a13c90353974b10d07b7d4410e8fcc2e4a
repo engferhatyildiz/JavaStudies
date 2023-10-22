@@ -1,0 +1,9 @@
+
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ó›©“ıÿÿÿÿ8ø£¶Ç0
+
+java:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ä â“8ÖÄß¼Ç0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õä—Éÿÿÿÿÿ
+h	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üüµıÿÿÿÿ
+B
+java:S1068",Remove this unused "isActive" private field.(êŸœ’
