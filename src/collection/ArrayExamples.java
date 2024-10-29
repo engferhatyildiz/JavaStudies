@@ -1,6 +1,9 @@
 package collection;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
 
 public class ArrayExamples {
     public static void main(String[] args) {
@@ -24,10 +27,6 @@ public class ArrayExamples {
         Collections.shuffle(numbersArrayList);
 
         System.out.println(numbersArrayList);
-
-
-        ListIterator<Integer> iterator = numbersArrayList.listIterator();
-
 
     }
 }
